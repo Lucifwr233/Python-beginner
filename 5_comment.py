@@ -12,6 +12,6 @@ Teks ini akan diabaikan oleh Python.
 '''
 
 print(name)
-print("Hello World!")
+print("Hello World!") # yoiii
 
 print("Hello World!") # Menampilkan teks "Hello World!"
